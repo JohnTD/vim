@@ -1,0 +1,1 @@
+['Dijkstra', 'Floyd', 'Warshall', 'Traveling', 'Salesman', 'bloom', 'filter', 'breadth', 'first', 'iterative', 'search', 'binary', 'merge', 'bubble', 'selection', 'insertion', 'sort', 'place', 'quick', 'bucket', 'radix', 'closest', 'pair', 'lskflskdjf', 'vector', 'dynamic', 'array', 'linked', 'list', 'stack', 'queue', 'circular', 'hash', 'priority', 'tree']
